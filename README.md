@@ -7,3 +7,8 @@ Hence in this project we have designed a database where a online store can sell 
  Every customer is provided with a cart which is assigned with a cart ID.
  An Cart may consist of one or more products from different categories. These products added into cart constitute the Cart items.These items in cart can be purchased or unpurchased and database application user will only be able to view the products in cart and set them to purchased or unpurchased.
  The payment details of every transaction/Order is stored in database. Payment id is given by the bank along with payment mode.Total Amount is automatically calculated by using a formula Ʃ(Product price*Quantity ordered) .
+
+
+
+Run the build.xml file to view the finished project.
+Download and run the entire code on netbeans to make changes.
